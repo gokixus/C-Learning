@@ -1,0 +1,11 @@
+No: 1031010981
+Vize: 50
+Final: 70
+
+No: 1031010980
+Vize: 25
+Final: 90
+
+No: 1031010982
+Vize: 49
+Final: 55

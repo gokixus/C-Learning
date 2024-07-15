@@ -1,0 +1,2 @@
+What is a caption?
+A caption is a numbered label, such as "Figure 1," that you can add to a table, figure, equation, or other item.

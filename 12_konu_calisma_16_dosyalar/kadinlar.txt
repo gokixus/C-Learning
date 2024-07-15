@@ -1,0 +1,4 @@
+Ogrenci Sayisi = 46
+Ortalama Puani = 262.73
+En Yuksek Puani = 489.66
+Birinci = Elif Aydin

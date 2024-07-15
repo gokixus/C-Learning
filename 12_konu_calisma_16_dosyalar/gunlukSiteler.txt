@@ -1,0 +1,8 @@
+192.168.10.24 www.kinggame.com
+192.169.11.25 www.oyunlar.com
+192.168.10.26 www.banka.com.tr
+191.86.12.12 www.baskent.edu.tr
+192.51.23.12 www.erciyes.edu.tr
+123.42.32.23 www.players.net
+193.34.23.22 www.buyukbahis.com
+194.129.23.23 www.bebecici.net

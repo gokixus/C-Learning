@@ -1,0 +1,5 @@
+Dave Bowman 4.0 2.5 2.5
+Guy Montag 3.0 3.5 3.5
+Anakin Skywalker 2.5 2.0 1.5
+Peter Parker 4.0 2.5 3.5
+Lenina Crowne 3.0 2.5 2.5

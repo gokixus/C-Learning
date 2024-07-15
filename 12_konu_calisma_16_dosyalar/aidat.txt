@@ -1,0 +1,15 @@
+Ahmet Çelik 12.25
+Ali Demir 20.3
+Hasan Kaçan 34.7
+Mehmet Yılmaz 42.5
+Sevgi Kaya 19.9
+Yunus Sariyavru 26.6
+Gökdeniz Yılmaz 19.5
+Esin Malka 29.6
+Burcu Kavak 12.2
+Mohamad Akbarr 59.6
+Ali Demir 56.4
+Ahmet Çelik 12.6
+Mehmet Yılmaz 12.23
+Hasan Kaçan 30.30
+Gökdeniz Yılmaz 16.3

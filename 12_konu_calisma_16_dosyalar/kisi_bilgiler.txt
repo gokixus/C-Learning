@@ -1,0 +1,10 @@
+Ad: Gokdeniz
+Soyad: Yilmaz
+Yas: 22
+Bolumu: BME
+
+Ad: Yusuf
+Soyad: Tekin
+Yas: 25
+Bolumu: EEE
+

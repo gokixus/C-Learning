@@ -1,0 +1,5 @@
+SUSAM 15
+KAKAO 1
+BADEM 100
+UN 0
+SEKER karsilanamaz

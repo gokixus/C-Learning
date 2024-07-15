@@ -1,0 +1,4 @@
+Ogrenci Sayisi = 54
+Ortalama Puani = 233.31
+En Yuksek Puani = 498.70
+Birinci = Ahmet Cosar

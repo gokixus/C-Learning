@@ -1,0 +1,15 @@
+Ad: Gokdeniz
+Soyadi: Yilmaz
+Yasi: 21
+Bolumu: EEE
+
+Ad: Sevgi
+Soyadi: Kaya
+Yasi: 21
+Bolumu: BME
+
+Ad: Ahmet
+Soyadi: Tekin
+Yasi: 20
+Bolumu: CENG
+
